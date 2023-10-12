@@ -1,5 +1,5 @@
 # Azure Active Directory
-![azlogo](https://github.com/NoodleStorm/AAD/assets/35268084/a4178800-2d87-463b-9316-a0039c121e09)
+![azlogo](https://github.com/NoodleStorm/AAD-Tools/assets/35268084/f769b77d-d92e-433d-a4cb-b0b3e65a648f)
 
 Above you will find a collection of scripts I use to manage AAD.
 
