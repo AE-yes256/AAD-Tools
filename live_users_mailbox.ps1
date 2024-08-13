@@ -10,7 +10,7 @@ A Script used to update the All_Company distribution group based of AAD_Live_Use
 Created   : 09-September-2022
 Updated   : 22-March-2023
 Version   : 1.1
-Author    : NoodleStorm
+Author    : AE-yes256
 Disclaimer: This script is provided "AS IS" with no warranties.
 #>
 
