@@ -24,7 +24,7 @@ try {
     "Connect to Graph"
     Connect-MgGraph -ClientID "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" -TenantId "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  -CertificateThumbprint "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     "Connected to Exchange"
-    Connect-ExchangeOnline -CertificateThumbPrint "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" -AppID "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" -Organization "custodiatec.onmicrosoft.com"
+    Connect-ExchangeOnline -CertificateThumbPrint "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" -AppID "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" -Organization "XXXXXXXX.onmicrosoft.com"
 }
 catch {
     Write-Error -Message $_.Exception
